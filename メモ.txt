@@ -1,0 +1,31 @@
+<生成>
+Singleton
+Factory Method
+Abstract Factory
+Builder
+Prototype
+
+<構造>
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+
+<振る舞い>
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+
+<その他>
+Null Object
