@@ -20,5 +20,4 @@ Strategy
 Template Method
 
 <その他>
-
 Null Object
