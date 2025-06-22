@@ -6,7 +6,6 @@ Builder
 
 <構造>
 Adapter
-Bridge
 Composite
 Decorator
 Facade
@@ -21,4 +20,5 @@ Strategy
 Template Method
 
 <その他>
+
 Null Object
